@@ -1,6 +1,6 @@
 <div align="center">
 
-[![FluentCart](https://avatars.githubusercontent.com/u/244442294?s=200&v=4)](https://fluentcart.com/)
+[![FluentCart](https://ps.w.org/fluent-cart/assets/banner-1544x500.png?rev=3378973)](https://fluentcart.com/)
   
 # FluentCart
 

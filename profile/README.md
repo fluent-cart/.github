@@ -1,10 +1,12 @@
 <div align="center">
 
-# 🛒 FluentCart
+[![FluentCart](https://avatars.githubusercontent.com/u/244442294?s=200&v=4)](https://fluentcart.com/)
+  
+# FluentCart
 
 ### Selling with WordPress just got faster, lighter, and simpler.
 
-[![WordPress](https://img.shields.io/badge/WordPress-5.0+-blue.svg)](https://wordpress.org/)
+[![WordPress](https://img.shields.io/badge/WordPress-5.0+-blue.svg)](http://wordpress.org/plugins/fluent-cart)
 [![PHP](https://img.shields.io/badge/PHP-7.4+-purple.svg)](https://php.net/)
 [![License](https://img.shields.io/badge/License-GPLv2-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![Documentation](https://img.shields.io/badge/docs-fluentcart.com-orange.svg)](https://fluentcart.com/)

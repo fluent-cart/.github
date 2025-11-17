@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-GPLv2-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![Documentation](https://img.shields.io/badge/docs-fluentcart.com-orange.svg)](https://fluentcart.com/)
 
-[🌐 Website](https://fluentcart.com/) • [📚 Documentation](https://docs.fluentcart.com/) • [🎓 Developer Docs](https://dev.fluentcart.com/) • [💬 Community]([https://fluentcart.com/community/](https://community.wpmanageninja.com/portal/space/fluent-cart/home))
+[🌐 Website](https://fluentcart.com/) • [📚 Documentation](https://docs.fluentcart.com/) • [🎓 Developer Docs](https://dev.fluentcart.com/) • [💬 Community](https://community.wpmanageninja.com/portal/space/fluent-cart/home)
 
 ---
 
